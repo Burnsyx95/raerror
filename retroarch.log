@@ -1,0 +1,163 @@
+[INFO] [Core]: Using content: "R:\RetroArch-Win64\system\psx\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA).cue".
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] RetroArch 1.19.1 (Git 427e3fa6f6)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 5 5600X 6-Core Processor             
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.19.1
+[INFO] Git: 427e3fa6f6
+[INFO] Built: Jun  5 2024
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "dinput".
+[INFO] [Core]: Loading dynamic libretro core from: "R:\RetroArch-Win64\cores\swanstation_libretro.dll"
+[INFO] [Overrides]: Redirecting save file to "R:\RetroArch-Win64\saves\SwanStation\WWF WrestleMania - The Arcade Game (USA).srm".
+[INFO] [Overrides]: Redirecting save state to "R:\RetroArch-Win64\states\SwanStation\WWF WrestleMania - The Arcade Game (USA).state".
+[INFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ]: GET_LANGUAGE: "0".
+[INFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2_INTL.
+[INFO] [Environ]: SET_CONTROLLER_INFO.
+[INFO] [Environ]: GET_LOG_INTERFACE.
+[INFO] [Environ]: GET_VFS_INTERFACE. Core requested version >= V1, providing V3.
+[INFO] [Environ]: GET_RUMBLE_INTERFACE.
+[INFO] [Environ]: GET_DISK_CONTROL_INTERFACE_VERSION.
+[INFO] [Environ]: SET_DISK_CONTROL_EXT_INTERFACE.
+[INFO] [Environ]: GET_MESSAGE_INTERFACE_VERSION.
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Content]: Content loading skipped. Implementation will load it on its own.
+[INFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[libretro INFO] [System] Loading CD image 'R:\RetroArch-Win64\system\psx\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA).cue'...
+[libretro INFO] [System] Auto-detected console NTSC-U region for 'R:\RetroArch-Win64\system\psx\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA).cue' (region NTSC-U)
+[libretro INFO] [System] Console Region: NTSC-U/C (US, Canada)
+[INFO] [Environ]: SYSTEM_DIRECTORY: "R:\RetroArch-Win64\system\BIOS".
+[libretro INFO] [HostInterface] Searching for a NTSC-U/C (US, Canada) BIOS in 'R:\RetroArch-Win64\system\BIOS'...
+[libretro WARN] [FindBIOSImageInDirectory] Skipping 'scummvm.ini': incorrect size
+[INFO] [Environ]: SET_MESSAGE: ERROR: No BIOS image found for NTSC-U/C (US, Canada) region
+[libretro ERROR] [ReportError] No BIOS image found for NTSC-U/C (US, Canada) region
+[INFO] [Environ]: SET_MESSAGE: ERROR: Failed to load NTSC-U BIOS.
+[libretro ERROR] [ReportError] Failed to load NTSC-U BIOS.
+[INFO] [Environ]: SET_MESSAGE: ERROR: System failed to boot. The log may contain more information.
+[libretro ERROR] [ReportError] System failed to boot. The log may contain more information.
+[ERROR] [Content]: Failed to load content
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [Core]: Saved core options file to "R:\RetroArch-Win64\config\SwanStation\SwanStation.opt".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Version of libretro API: 1, Compiled against API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 143.97, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Timings deviate too much. Will not adjust. (Target = 60.00 Hz, Game = 143.97 Hz)
+[INFO] [Video]: Game FPS > Monitor FPS. Cannot rely on VSync.
+[INFO] [Video]: Set video size to: 960x720.
+[INFO] [XInput]: Found XInput v1.4.
+[INFO] [Joypad]: Found joypad driver: "xinput".
+[INFO] [Autoconf]: Bluetooth LE XINPUT compatible input device (1118/2835) not configured, using fallback.
+[INFO] [D3D11]: Device created (Feature Level: 11.0)
+[INFO] [D3D11]: Flip model and tear control supported and enabled.
+[INFO] [D3D11]: Requesting 1 maximum frame latency, using 1.
+[INFO] [D3D11]: Found GPU at index 0: "NVIDIA GeForce RTX 3080".
+[INFO] [D3D11]: Found GPU at index 1: "Microsoft Basic Render Driver".
+[INFO] [D3D11]: Using GPU index 0.
+[INFO] [Video]: Found display server: "win32".
+[INFO] [WASAPI]: Client initialized (shared, PCM, 48000Hz, 64.0ms).
+[INFO] [Audio]: Started synchronous audio driver.
+[INFO] [Microphone]: Initialized microphone driver.
+[INFO] [Display]: Found display driver: "d3d11".
+[INFO] [MIDI]: Output device: "Microsoft GS Wavetable Synth".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_history.lpl".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_music_history.lpl".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_video_history.lpl".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_image_history.lpl".
+[INFO] [Playlist]: Loading favorites file: "R:\RetroArch-Win64\content_favorites.lpl".
+[INFO] [Config]: Saved new config to "R:\RetroArch-Win64\retroarch.cfg".
+[INFO] [Core]: Using content: "R:\RetroArch-Win64\system\psx\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA).cue".
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] RetroArch 1.19.1 (Git 427e3fa6f6)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 5 5600X 6-Core Processor             
+[INFO] Capabilities: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.19.1
+[INFO] Git: 427e3fa6f6
+[INFO] Built: Jun  5 2024
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "dinput".
+[INFO] [Core]: Loading dynamic libretro core from: "R:\RetroArch-Win64\cores\swanstation_libretro.dll"
+[INFO] [Overrides]: Redirecting save file to "R:\RetroArch-Win64\saves\SwanStation\WWF WrestleMania - The Arcade Game (USA).srm".
+[INFO] [Overrides]: Redirecting save state to "R:\RetroArch-Win64\states\SwanStation\WWF WrestleMania - The Arcade Game (USA).state".
+[INFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ]: GET_LANGUAGE: "0".
+[INFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2_INTL.
+[INFO] [Environ]: SET_CONTROLLER_INFO.
+[INFO] [Environ]: GET_LOG_INTERFACE.
+[INFO] [Environ]: GET_VFS_INTERFACE. Core requested version >= V1, providing V3.
+[INFO] [Environ]: GET_RUMBLE_INTERFACE.
+[INFO] [Environ]: GET_DISK_CONTROL_INTERFACE_VERSION.
+[INFO] [Environ]: SET_DISK_CONTROL_EXT_INTERFACE.
+[INFO] [Environ]: GET_MESSAGE_INTERFACE_VERSION.
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Environ]: SAVE_DIRECTORY: "R:\RetroArch-Win64\saves\SwanStation".
+[INFO] [Content]: Content loading skipped. Implementation will load it on its own.
+[INFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[libretro INFO] [System] Loading CD image 'R:\RetroArch-Win64\system\psx\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA).cue'...
+[libretro INFO] [System] Auto-detected console NTSC-U region for 'R:\RetroArch-Win64\system\psx\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA)\WWF WrestleMania - The Arcade Game (USA).cue' (region NTSC-U)
+[libretro INFO] [System] Console Region: NTSC-U/C (US, Canada)
+[INFO] [Environ]: SYSTEM_DIRECTORY: "R:\RetroArch-Win64\system\BIOS".
+[libretro INFO] [HostInterface] Searching for a NTSC-U/C (US, Canada) BIOS in 'R:\RetroArch-Win64\system\BIOS'...
+[libretro WARN] [FindBIOSImageInDirectory] Skipping 'scummvm.ini': incorrect size
+[INFO] [Environ]: SET_MESSAGE: ERROR: No BIOS image found for NTSC-U/C (US, Canada) region
+[libretro ERROR] [ReportError] No BIOS image found for NTSC-U/C (US, Canada) region
+[INFO] [Environ]: SET_MESSAGE: ERROR: Failed to load NTSC-U BIOS.
+[libretro ERROR] [ReportError] Failed to load NTSC-U BIOS.
+[INFO] [Environ]: SET_MESSAGE: ERROR: System failed to boot. The log may contain more information.
+[libretro ERROR] [ReportError] System failed to boot. The log may contain more information.
+[ERROR] [Content]: Failed to load content
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [Core]: Saved core options file to "R:\RetroArch-Win64\config\SwanStation\SwanStation.opt".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Version of libretro API: 1, Compiled against API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 143.97, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Timings deviate too much. Will not adjust. (Target = 60.00 Hz, Game = 143.97 Hz)
+[INFO] [Video]: Game FPS > Monitor FPS. Cannot rely on VSync.
+[INFO] [Video]: Set video size to: 960x720.
+[INFO] [XInput]: Found XInput v1.4.
+[INFO] [Joypad]: Found joypad driver: "xinput".
+[INFO] [Autoconf]: Bluetooth LE XINPUT compatible input device (1118/2835) not configured, using fallback.
+[INFO] [D3D11]: Device created (Feature Level: 11.0)
+[INFO] [D3D11]: Flip model and tear control supported and enabled.
+[INFO] [D3D11]: Requesting 1 maximum frame latency, using 1.
+[INFO] [D3D11]: Found GPU at index 0: "NVIDIA GeForce RTX 3080".
+[INFO] [D3D11]: Found GPU at index 1: "Microsoft Basic Render Driver".
+[INFO] [D3D11]: Using GPU index 0.
+[INFO] [Video]: Found display server: "win32".
+[INFO] [WASAPI]: Client initialized (shared, PCM, 48000Hz, 64.0ms).
+[INFO] [Audio]: Started synchronous audio driver.
+[INFO] [Microphone]: Initialized microphone driver.
+[INFO] [Display]: Found display driver: "d3d11".
+[INFO] [MIDI]: Output device: "Microsoft GS Wavetable Synth".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_history.lpl".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_music_history.lpl".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_video_history.lpl".
+[INFO] [Playlist]: Loading history file: "R:\RetroArch-Win64\content_image_history.lpl".
+[INFO] [Playlist]: Loading favorites file: "R:\RetroArch-Win64\content_favorites.lpl".
